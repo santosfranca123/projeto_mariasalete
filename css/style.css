@@ -1,0 +1,52 @@
+/*reset*/
+body{ 
+margin:0;
+
+}
+/*geral*/
+
+html{
+  font-family:"open sans",sans-serip;
+}
+ 
+ h1,h2, h3, h4, h5,p,spam{ 
+     margin: 0;
+     color:#666;
+}
+  .container{  
+     max-width: 1920;  
+     width: 100%;
+}
+
+/*header*/ 
+header{  
+    position: relative;
+    top: 0;
+    height: auto;
+    width: 100 ;
+}
+
+/*navbar*/
+nav{
+    position: fixed;
+    top:0;
+    height: 100px;
+    width:  100px;
+    z-index: 1;
+    background-color: #FFF;
+    border-bottom: 1px solid #CCC;
+}
+
+nav:afeter{
+    clear:soth;
+    contr " " ;
+    display: block;
+    height: 50px;
+    width: 50px;
+    background-color: #000;
+}    
+
+.nav-container{
+  max-width: 1200px;
+  position: relative;
+  margin-right: auto;
