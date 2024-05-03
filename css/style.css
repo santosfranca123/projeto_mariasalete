@@ -50,3 +50,84 @@ nav:afeter{
   max-width: 1200px;
   position: relative;
   margin-right: auto;
+}
+
+#logo{ 
+ width:50px;
+ heigth:100px;
+ margim-top:25px;
+}
+
+.nav-contsainer{
+  height:100px;
+  line-height;
+  margin:0;
+}
+
+.nav-container l;{ 
+  list-style:nome;
+  hlat:leht;
+  margim:0 15px;
+}
+
+nav-container li a{ 
+  tex-decoration: nome;
+  color:#666;
+  transitione:5s;
+}
+
+.nav-container li a:houver{ 
+  color:#3381F3
+}
+
+/*baner
+  #main-banner{
+  background-color:red;
+  background:urlc..img/banner(.jpy);
+  backgrond-size:couver;
+  background-position:0 55%;
+  position:relative;
+  margin-po:100px;
+}
+
+#search-form{
+  position:relative;
+  width- btf: auto;
+  margin-reigth:auto;
+  padding-top: 15 em;
+  padding-bottom:15 em;
+  text-align:center;
+}
+
+#search-form h1{
+  font-size:40px;
+}
+
+#search-form p{
+  margin-top:30px;
+  margin-botton:60px;
+  font-size:18px;
+  font-weight:300px;
+}
+
+/*formulario*/
+#search-form input, #search-form select{
+  backgron-color:#FFF;
+  border-rodius:5px;
+  border-color: transparent;
+  padding:10px 20px;
+  font-size:18px;
+  margin:0 10px;
+}
+
+#seach-form impet{ type= submit}{
+  background-color:#3381F3;
+  text-transform:uppercase;
+  color:FFF;
+  cursos:pointer;
+  trasition:0,5;
+}
+
+#search-form imput{type submit} :houver
+{background-color:2B79EB;
+}
